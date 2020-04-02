@@ -1,0 +1,31 @@
+.container-fluid {
+    padding:0;
+}
+
+.jumbotron {
+    text-align:center;
+}
+
+.page-title {
+    text-align:center;
+}
+
+nav a {
+    color: #6c6c6c;
+    text-decoration:none;
+    font-size:1.3em;
+    padding:10px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+    font-size:1.5em;
+    color:black;
+    transition:0.3s;
+}
+
+.active {
+    color:black;
+    text-decoration:underline;
+    font-size:1.5em;
+}
